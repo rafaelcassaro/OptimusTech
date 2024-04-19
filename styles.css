@@ -1,0 +1,19 @@
+@import url(/styles/header.css);
+@import url(/styles/about.css);
+@import url(/styles/jobs.css);
+@import url(/styles/footer.css);
+
+:root{
+    --color-primary: #667085;
+    --color-secundary: #8E2424;
+    --grey:#101828;
+    --light-grey:#D0D5DD;
+    --white:#FFFFFF;
+    --font: "Inter";
+}
+
+body{
+    font-size: 16px;
+    font-family: 'Inter';
+    color: var(--color-primary);
+}

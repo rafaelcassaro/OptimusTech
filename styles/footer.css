@@ -1,0 +1,46 @@
+.footer{
+    text-align: center;
+    margin-top: 10em;
+    display: grid;
+}
+
+.footer__button{
+    font-weight: 500;
+    text-decoration: none;
+    background-color: var(--color-secundary);
+    border-radius: 8px;
+    color: var(--white);
+    padding: .8em 1em;
+    margin: 1em 0;
+    width: auto;
+}
+
+.banner_search{
+    align-self: center;
+    background-color: transparent;
+    border: 1px solid;
+    color: var(--light-grey);
+    border-radius: 8px;
+    padding: 1em;
+    height: 3em;
+    width: 17%;
+}
+
+.banner_search::placeholder{
+    font-family: var(--main-font);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    color: var(--color-primary);
+}
+
+.footer_email-input{
+    display: flex;
+    gap: 2em;
+    justify-content: center;
+    margin-top: 2.5em;
+}
+
+.footer__copyright{
+    margin: 1.5em 0 5em 0;
+}

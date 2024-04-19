@@ -1,0 +1,95 @@
+.about{
+    text-align: center;
+    margin-top: 6em;
+    
+}
+
+.about__title{
+    margin: .7em 0;
+    font-weight: 600;
+    font-size: 48px;
+    color: var(--grey);
+}
+
+.about__text-one{
+    color: var(--color-secundary);
+    font-weight: 600;   
+}
+
+.about__text-two{
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0 28%;
+    line-height: 1.5;
+}
+
+.about-numbers{
+    display: grid;
+    margin: 7em 5% 7em 15%;
+    grid-template-columns: auto auto auto auto;
+}
+
+.about-numbers__cards{
+    padding-right: 6.5em;
+}
+
+
+.about-numbers__title{
+    color: var(--color-secundary);
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.about-numbers__title-two{
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--grey);
+    margin: 1em 0 ;
+}
+
+.about-numbers__text{
+    font-weight: 400;
+    line-height: 1.5;
+    
+}
+
+.section-two-text{
+    font-size: 14px;
+}
+
+.section-two-title{
+    font-size: 36px;
+}
+
+.section-three-title{
+    font-size: 36px;
+    font-weight: 500;
+    margin: .6em 20%;
+}
+
+.jobs-section{
+    margin-top: 10em;
+}
+
+.about__img{
+    margin: 5em 0 2em 0;
+    width: 75%;
+}
+
+.about__text_colaborador{
+    font-size: 1px;
+}
+
+.teste{
+    color: var(--color-secundary);
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.developer-text{
+    font-size: 14px;
+}
+
+.colaborator__img{
+    margin-bottom: 1em;
+}
